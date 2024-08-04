@@ -62,13 +62,14 @@ For cargo ships to work together efficiently, they need a robust communication s
 
 ![24](https://github.com/user-attachments/assets/786d0cf0-2800-4b38-bc4d-50ef4b2eb86c)
 ![25](https://github.com/user-attachments/assets/2bbf75b8-38e3-430d-804c-2a184d4a89b5)
+![26](https://github.com/user-attachments/assets/65d7a9f2-590a-44c1-8f37-ce6d6a6fd966)
 ## Pods: The Smallest Unit of Kubernetes
 In Kubernetes, pods are the smallest deployable units, similar to individual containers on a cargo ship. Each pod contains one or more containers, which run your application workloads.
-![26](https://github.com/user-attachments/assets/65d7a9f2-590a-44c1-8f37-ce6d6a6fd966)
+
+![27](https://github.com/user-attachments/assets/a387b18b-80f5-4bbc-a3e9-8dd73c8654bb)
 ## Docker Container Runtime: The Cargo Handling Mechanism
 Just as cargo ships need cranes and machinery to load and unload containers, Kubernetes uses a container runtime to manage the containers within its pods. Docker is one of the most popular container runtimes used in Kubernetes. It provides the environment in which containers are run, ensuring they are isolated, secure, and can operate independently of each other, similar to how each container on a ship is packed and transported securely.
 
-![27](https://github.com/user-attachments/assets/a387b18b-80f5-4bbc-a3e9-8dd73c8654bb)
 ![28](https://github.com/user-attachments/assets/818d5b2f-6ac3-4a84-9513-11620d548ef7)
 
 ![29](https://github.com/user-attachments/assets/7d8a0030-c61f-47af-81ca-1b680e2f47bf)
