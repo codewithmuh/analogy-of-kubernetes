@@ -6,7 +6,7 @@
 Understanding Kubernetes doesn't have to be complicated. This project uses relatable analogies and visual aids to simplify the core concepts of Kubernetes, making it easier for anyone to learn and apply.
 
 
-# 1. Analogy of Kubernetes
+# Analogy of Kubernetes
 Below are a series of images that explain Kubernetes concepts using everyday analogies:
 
 ![3](https://github.com/user-attachments/assets/f65c55b2-b293-47d2-8858-6a615e4b2b66)
